@@ -1,0 +1,6 @@
+{
+  "name": "Xưởng Tạo Đồ Chơi Của Thiên Phú",
+  "description": "Phân tích ảnh tham chiếu để trích xuất tên nhân vật và tạo prompt đồ chơi vinyl 3D chất lượng cao.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
